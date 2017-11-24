@@ -1,4 +1,5 @@
 # logstash-pubsub
+![Alt text](/draveur.jpg?raw=true "Draveur du Québec")
 Logstash with pre-installed google pubsub input plugin (Docker hub automated build)
 
 This simple Dockerfile only pre-install the google pubsub input plugin and is used as an automated buid for Dockerhub.
