@@ -1,4 +1,4 @@
-FROM docker.elastic.co/logstash/logstash-oss:5.6.5
+FROM docker.elastic.co/logstash/logstash:5.6.5
 MAINTAINER Patrick Laurin <plaurin@inocybe.ca>
 # Below ENV is a fix from stackovertflow.
 # See https://stackoverflow.com/questions/46974598/logstash-with-google-pubsub-input-plugin-error-certificate-verify-failed
